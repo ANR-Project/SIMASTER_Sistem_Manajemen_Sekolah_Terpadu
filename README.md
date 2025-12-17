@@ -62,6 +62,12 @@ Pastikan Anda telah menginstal XAMPP atau konfigurasi server web yang sesuai di 
 9. Jalankan perintah `php artisan config:cache`.
 9. Buka web browser Anda dan arahkan ke alamat URL tempat aplikasi telah diinstal (Username dan Password Default : simaster@duidev.com | bismillah).
 
+
+## Instalasi melalui Docker 
+`docker compose up --build`
+
+
+
 ## Kontribusi
 
 Kami terbuka terhadap kontribusi dari komunitas. Jika Anda menemukan masalah atau ingin berkontribusi dalam pengembangan aplikasi ini, silakan buka [laporan masalah](https://github.com/servdal/sekolah/issues) atau kirimkan pull request.
